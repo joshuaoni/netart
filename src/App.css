@@ -84,6 +84,7 @@ p span {
 .footer {
   background: #ec3237;
   display: flex;
+  padding-bottom: 1rem;
 }
 
 .footer div {
